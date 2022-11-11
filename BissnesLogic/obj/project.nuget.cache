@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rM+K3JpHI9OWQ/uCx2LXURYtAcTMVZNbMQlydF2ZnQvH35agDioG/rbaq+OOdfBFCaOkVamwVGfmoXhpvsEcg==",
+  "dgSpecHash": "t9SEl3duuHkJX1AqYYyjYmMjwsHD1fouQN2qEJTrc+igkbvU/ZVG4G07y1mGSQ5b4C/Tln8iMtI7kvgy6Uw5Og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BG\\source\\repos\\WebApplication4\\BissnesLogic\\BissnesLogic.csproj",
+  "projectFilePath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\BissnesLogic\\BissnesLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BG\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\BG\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

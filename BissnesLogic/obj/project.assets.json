@@ -2886,11 +2886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BG\\source\\repos\\WebApplication4\\BissnesLogic\\BissnesLogic.csproj",
+      "projectUniqueName": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\BissnesLogic\\BissnesLogic.csproj",
       "projectName": "BissnesLogic",
-      "projectPath": "C:\\Users\\BG\\source\\repos\\WebApplication4\\BissnesLogic\\BissnesLogic.csproj",
+      "projectPath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\BissnesLogic\\BissnesLogic.csproj",
       "packagesPath": "C:\\Users\\BG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BG\\source\\repos\\WebApplication4\\BissnesLogic\\obj\\",
+      "outputPath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\BissnesLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2907,8 +2907,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\DataAcces.csproj": {
-              "projectPath": "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\DataAcces.csproj"
+            "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj": {
+              "projectPath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj"
             }
           }
         }

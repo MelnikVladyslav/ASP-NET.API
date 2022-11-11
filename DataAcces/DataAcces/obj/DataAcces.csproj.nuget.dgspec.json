@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\DataAcces.csproj": {}
+    "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\DataAcces.csproj": {
+    "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\DataAcces.csproj",
+        "projectUniqueName": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj",
         "projectName": "DataAcces",
-        "projectPath": "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\DataAcces.csproj",
+        "projectPath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj",
         "packagesPath": "C:\\Users\\BG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\obj\\",
+        "outputPath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BG\\AppData\\Roaming\\NuGet\\NuGet.Config",

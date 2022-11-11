@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4QyAmjTBEsUIqjzUW8EeSK8ydwRvOIX9fnfg0l46Gyn2AtlVP+MIEPfH0HRgMriM04AQBigC/Z4PpTFlMgSVLg==",
+  "dgSpecHash": "ERFY1EJnKjvWvYttVsW1GBl36Nk9+/T8RXKsDpfy62QCim74n7WmWrd8vh1gmxZZCGLO9xQVFfrgzKHUFysMkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BG\\source\\repos\\WebApplication4\\DataAcces\\DataAcces\\DataAcces.csproj",
+  "projectFilePath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BG\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\BG\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
