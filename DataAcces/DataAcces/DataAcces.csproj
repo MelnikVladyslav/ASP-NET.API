@@ -13,4 +13,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\BissnesLogic\BissnesLogic.csproj" />
+  </ItemGroup>
+
 </Project>

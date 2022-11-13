@@ -1380,9 +1380,9 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AutoMapper": "12.0.0",
-          "DataAcces": "1.0.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
-          "Microsoft.EntityFrameworkCore": "6.0.10"
+          "Microsoft.EntityFrameworkCore": "6.0.10",
+          "Microsoft.Extensions.Identity.Stores": "6.0.0"
         },
         "compile": {
           "bin/placeholder/BissnesLogic.dll": {}
@@ -1395,6 +1395,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "BissnesLogic": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
@@ -3238,6 +3239,7 @@
       "AutoMapper >= 12.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "BissnesLogic >= 1.0.0",
+      "DataAcces >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
@@ -3274,6 +3276,9 @@
           "projectReferences": {
             "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\BissnesLogic\\BissnesLogic.csproj": {
               "projectPath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\BissnesLogic\\BissnesLogic.csproj"
+            },
+            "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj": {
+              "projectPath": "C:\\Users\\BG\\Documents\\GitHub\\ASP-NET.API\\DataAcces\\DataAcces\\DataAcces.csproj"
             }
           }
         }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Core.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -14,7 +15,7 @@ namespace DataAccess.Entities
         Ser,
         Big,
     }
-    public class Memory
+    public class Memory : IBaseEntity
     {
         public int Id { get; set; }
         [Required, MinLength(3)]

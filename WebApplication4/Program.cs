@@ -2,7 +2,9 @@ using BusinessLogic.Interfaces;
 using BusinessLogic.Services;
 using BusnessLogic.Interfies;
 using BusnessLogic.Services;
+using Core.Interfaces;
 using DataAccess;
+using Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -20,6 +22,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<StoreDbContext5>(x => x.UseSqlServer(connectionString));
+
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddEntityFrameworkStores<StoreDbContext5>()

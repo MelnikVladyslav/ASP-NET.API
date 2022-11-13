@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Core.Interfaces;
+using System.ComponentModel.DataAnnotations;
 
 namespace DataAccess.Entities
 {
-    public class Laptop
+    public class Laptop : IBaseEntity
     {
         public int Id { get; set; }
 
